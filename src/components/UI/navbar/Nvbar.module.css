@@ -1,0 +1,21 @@
+.navbar {
+    min-height: 65px;
+    background-color: #9C6FE4;
+}
+
+.navbar__wrap {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 45px;
+    padding: 10px 0;
+}
+
+.logo {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

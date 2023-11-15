@@ -1,0 +1,22 @@
+.input {
+    padding-bottom: 12px;
+    margin-bottom: 24px;
+
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #FFFFFF66;
+    color: white;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+input:-webkit-autofill {
+    -webkit-text-fill-color: white;
+    box-shadow: inset 0 0 0 1000px #1C1D21;
+}
+
+.input::placeholder {
+    color: #FFFFFF80;
+}
