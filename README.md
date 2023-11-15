@@ -1,6 +1,9 @@
 # Данные для входа
-## Login: fokillq
-## Password: xZnWSWnqH
-
+### Login: fokillq
+### Password: xZnWSWnqH
+##
 ### Либо любые данные пользователей из API [Данные юзеров](https://dummyjson.com/users)
 ### Если нужно запустить локально, то запустите сначала npm install, затем npm start
+## 
+### Состояние входа сохраняется в local storage, при обновлении страницы показывает актуальное состояние авторизации
+
